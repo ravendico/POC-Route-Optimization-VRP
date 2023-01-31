@@ -2,7 +2,7 @@
 data/
 
 #ignore mapbox token
-token.py
+mapbox_token.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
