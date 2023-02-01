@@ -1,1 +1,0 @@
-mapbox_token = 'pk.eyJ1IjoicmF2ZW5kaWNvIiwiYSI6ImNrOXNtMTQwNDE1NXEzZ3J0ZXBzbGFjajYifQ.reAoc-tEDpfezf6ZHJiyZQ'
